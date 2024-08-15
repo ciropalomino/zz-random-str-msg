@@ -1,2 +1,7 @@
 # zz-random-str-msg
-Message Random
+
+Show message alteatory.
+
+## Install 
+
+npm install -g zz-random-str-ms
